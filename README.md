@@ -137,11 +137,13 @@ As evidências devem ser interpretadas considerando as limitações dos modelos 
 
 ## 7. Visualização dos Resultados
 
+
 ### 7.1 Evolução da Taxa Selic Diária
 
 O gráfico apresenta a evolução histórica da taxa Selic diária no Brasil, permitindo observar os movimentos das taxas de juros durante o período analisado.
 
 ![Evolução da Taxa Selic Diária no Brasil](graficos/grafico_selic.png)
+
 
 ### 7.2 Evolução da Inflação (IPCA)
 
