@@ -1,0 +1,6 @@
+Durbin-Watson: 0.6113
+
+Teste de Ljung-Box:
+      lb_stat  lb_pvalue
+6   29.424989   0.000051
+12  40.638847   0.000056

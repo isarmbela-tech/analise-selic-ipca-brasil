@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               ipca_12m   R-squared:                       0.245
+Model:                            OLS   Adj. R-squared:                  0.225
+Method:                 Least Squares   F-statistic:                     12.64
+Date:                Thu, 05 Nov 2026   Prob (F-statistic):            0.00101
+Time:                        21:06:45   Log-Likelihood:                -24.669
+No. Observations:                  41   AIC:                             53.34
+Df Residuals:                      39   BIC:                             56.77
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          7.3906      0.799      9.252      0.000       5.775       9.006
+selic_lag6    -0.2238      0.063     -3.555      0.001      -0.351      -0.096
+==============================================================================
+Omnibus:                        8.482   Durbin-Watson:                   0.611
+Prob(Omnibus):                  0.014   Jarque-Bera (JB):                7.351
+Skew:                          -0.904   Prob(JB):                       0.0253
+Kurtosis:                       4.018   Cond. No.                         144.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
