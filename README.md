@@ -135,15 +135,14 @@ Os resultados detalhados estão disponíveis na pasta `resultados/`, enquanto os
 
 As evidências devem ser interpretadas considerando as limitações dos modelos e sem pressupor causalidade.
 
-## 7. Visualização dos Resultados
 
+## 7. Visualização dos Resultados
 
 ### 7.1 Evolução da Taxa Selic Diária
 
 O gráfico apresenta a evolução histórica da taxa Selic diária no Brasil, permitindo observar os movimentos das taxas de juros durante o período analisado.
 
 ![Evolução da Taxa Selic Diária no Brasil](graficos/grafico_selic.png)
-
 
 ### 7.2 Evolução da Inflação (IPCA)
 
@@ -195,7 +194,6 @@ Os resultados devem ser interpretados considerando as hipóteses estatísticas e
 
 ![Resultados do Modelo de Regressão Dinâmica](graficos/regressao_dinamica_ajuste.png)
 
-
 ### 7.7 Diagnóstico do Modelo Dinâmico
 
 A avaliação do modelo de regressão dinâmica inclui a análise dos resíduos, com o objetivo de investigar possíveis padrões não explicados pela especificação estatística.
@@ -222,9 +220,8 @@ O teste KPSS apresentou valor-p reportado de 0,10, correspondente ao limite supe
 
 O teste CUSUM apresentou valor-p de aproximadamente 0,9729, não indicando evidências estatisticamente significativas de instabilidade dos parâmetros.
 
-Esses resultados são favoráveis à especificação analisada, embora não garantam, isoladamente, a adequação completa do modelo.
-
 ![Validação Estatística do Modelo Dinâmico](graficos/validacao_modelo_dinamico.png)
+
 
 ## 8. Resultados Quantitativos e Interpretação Estatística
 
